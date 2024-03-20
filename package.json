@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "devStart": "node index"
+    "start": "node index"
   },
   "author": "grace",
   "license": "ISC"
